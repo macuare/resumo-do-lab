@@ -1,2 +1,3 @@
 # resumo-do-lab
 DIO AZURE CLOUD AZ900
+2025
